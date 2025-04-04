@@ -1,0 +1,117 @@
+.buttons {
+	text-align: center;
+	justify-content: center;
+}
+
+.container {
+	width: 1200px !important; 
+	margin: auto;
+}
+
+.keyboard {
+	text-align: center;
+}
+
+
+.display input[type=text] {
+	height: 150px;
+	width: 1195px;
+	background: #e2ffef;
+	/*color: #fff;*/
+	color: black !important; 
+	overflow: auto;
+	border-radius: 10px;
+	outline: none;
+	border: 1px solid #41c53f;
+	/* color: #2f3542; */
+	font-size: 20px;
+}
+
+.display {
+	/* margin-bottom: 10px; */
+	/* outline: none; */
+	/* height: 80px;
+	width: 1180px; */
+	/* background: #e2ffef; */
+	/*color: #fff;*/
+	/* overflow: auto;
+	border-radius: 10px;
+	outline: none;
+	border: 1px solid #41c53f;
+	color: #2f3542;
+	font-size: 20px;
+	padding: 10px; */
+}
+
+#sub-btn {
+	width: 100px;
+	height: 30px;
+	align-items: center;
+	border: 1px solid white;
+	border-radius: 5px;
+	color: white;
+	background-color: darkorange;
+	margin-left: 500px;
+	padding: auto;
+	margin-bottom: 20px;
+}
+
+.buttons {
+	outline: none;
+	color: black !important;
+}
+
+.buttons button {
+	margin: 3px;
+	background: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000 !important; 
+	border: 1px solid #9c9c9c;
+	border-radius: 5px;
+}
+
+.buttons button:active {
+	border: 1px solid #9c9c9c;
+}
+
+.buttons {
+	background: #e3e5e8;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.key {
+	height: 35px !important; 
+	width: 70px !important ; 
+}
+
+.Space {
+	height: 35px !important;
+	width: 300px !important;
+}
+
+.CapsLock {
+	height: 35px !important;
+	width: 120px !important;
+}
+
+.BackSpace {
+	height: 35px !important;
+	width: 150px !important
+}
+
+.Shift {
+	height: 35px !important;
+	width: 150px !important;
+}
+
+.enter {
+	height: 35px !important;
+	width: 100px !important;
+}
+
+button.enter {
+	height: 35px !important;
+	width: 100px !important;
+}
